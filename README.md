@@ -10,3 +10,10 @@
 
 <img width="300" alt="image" src="https://github.com/daeyunkwon/inflearn-ios-uikit-15apps/assets/54786464/735bb39e-9815-4433-891b-32a69b3b10c6">
 
+## 02. DiceGame
+버튼을 클릭하면 주사위 이미지가 랜덤으로 변경되는 앱
+
+<img width="300" alt="image" src="https://github.com/daeyunkwon/inflearn-ios-uikit-15apps/assets/54786464/8b6f0385-0301-4950-852a-ddffeb1b64b8">
+
+
+
