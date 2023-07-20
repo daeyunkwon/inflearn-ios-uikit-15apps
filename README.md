@@ -15,5 +15,9 @@
 
 <img width="300" alt="image" src="https://github.com/daeyunkwon/inflearn-ios-uikit-15apps/assets/54786464/8b6f0385-0301-4950-852a-ddffeb1b64b8">
 
+## 03. RPSGame
+컴퓨터와 승부하는 가위바위보 게임 앱
+
+<img width="300" alt="image" src="https://github.com/daeyunkwon/inflearn-ios-uikit-15apps/assets/54786464/cb541eba-6b76-400b-a9c4-938e04f35018">
 
 
