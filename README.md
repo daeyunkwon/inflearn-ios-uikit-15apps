@@ -30,3 +30,8 @@
 
 <img width="300" alt="image" src="https://github.com/daeyunkwon/inflearn-ios-uikit-15apps/assets/54786464/8dc67442-cc21-4846-9fc9-a5038c3ee33f">
 
+## 06. TextFieldProject
+텍스트필드를 사용해보는 앱
+
+<img width="300" alt="image" src="https://github.com/daeyunkwon/inflearn-ios-uikit-15apps/assets/54786464/0cce2e18-297e-4850-bab6-1d5fac7bdd3a">
+
