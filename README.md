@@ -45,6 +45,10 @@ BMI 계산하는 앱(MVC 패턴 적용)
 
 <img width="300" alt="image" src="https://github.com/daeyunkwon/inflearn-ios-uikit-15apps/assets/54786464/3a55df76-65c7-46d9-9c2e-26946b6534f6">
 
+## 09. TableView
+테이블뷰를 사용한 앱(MVC 패턴 적용)
+
+<img width="300" alt="image" src="https://github.com/daeyunkwon/inflearn-ios-uikit-15apps/assets/54786464/bffb49cb-568e-414e-90af-cd253f56f5aa">
 
 
 
