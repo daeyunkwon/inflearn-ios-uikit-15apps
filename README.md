@@ -50,6 +50,11 @@ BMI 계산하는 앱(MVC 패턴 적용)
 
 <img width="300" alt="image" src="https://github.com/daeyunkwon/inflearn-ios-uikit-15apps/assets/54786464/bffb49cb-568e-414e-90af-cd253f56f5aa">
 
+## 10. MemberList
+간단한 회원 프로필을 추가/수정 가능한 앱(MVC 패턴 적용)
+
+<img width="300" alt="image" src="https://github.com/daeyunkwon/inflearn-ios-uikit-15apps/assets/54786464/7033963b-d793-46e3-a316-095444a274d9">
+
 
 
 
