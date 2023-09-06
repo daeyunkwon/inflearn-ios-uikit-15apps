@@ -55,6 +55,12 @@ BMI 계산하는 앱(MVC 패턴 적용)
 
 <img width="300" alt="image" src="https://github.com/daeyunkwon/inflearn-ios-uikit-15apps/assets/54786464/7033963b-d793-46e3-a316-095444a274d9">
 
+## 11. MusicSearchApp
+iTunes Search API를 활용한 음악 검색 앱(MVC 패턴 적용)
+
+<img width="300" alt="image" src="https://github.com/daeyunkwon/inflearn-ios-uikit-15apps/assets/54786464/36a22dfe-2740-4120-93bd-98592f57b9c6">
+
+
 
 
 
