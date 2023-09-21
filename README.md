@@ -60,6 +60,11 @@ iTunes Search API를 활용한 음악 검색 앱(MVC 패턴 적용)
 
 <img width="300" alt="image" src="https://github.com/daeyunkwon/inflearn-ios-uikit-15apps/assets/54786464/36a22dfe-2740-4120-93bd-98592f57b9c6">
 
+## 12. ToDoApp
+Core Data를 이용해 CRUD 가능한 ToDo앱(MVC 패턴 적용)
+
+<img width="300" alt="image" src="https://github.com/daeyunkwon/inflearn-ios-uikit-15apps/assets/54786464/753cfc42-a078-4410-b8da-b4ef66cff799">
+
 
 
 
