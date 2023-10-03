@@ -65,7 +65,7 @@ Core Data를 이용해 CRUD 가능한 ToDo앱(MVC 패턴 적용)
 
 <img width="300" alt="image" src="https://github.com/daeyunkwon/inflearn-ios-uikit-15apps/assets/54786464/753cfc42-a078-4410-b8da-b4ef66cff799">
 
-## 12. MyFavoriteMusicApp
+## 13. MyFavoriteMusicApp
 좋아하는 음악 저장앱(MVC 패턴 적용)
 - Core Data를 이용해 CRUD
 - iTunes Search API를 활용
